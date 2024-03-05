@@ -4,8 +4,6 @@
 
 ![figure2_miccai_overview_page-0001](https://github.com/DaniellaHe/Diff-CASM/assets/66725012/f748ac5a-586e-403b-acdf-e6e6cd930d8b)
 
-## Abstract
-
 ## Training & Evaluation
 
 ### Step 1. Requirements
