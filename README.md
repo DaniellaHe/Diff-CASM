@@ -69,7 +69,5 @@ This project is licensed under the terms of the MIT License.
 
 ## Acknowledgement
 
-This work is built upon the [AnoDDPM](https://github.com/Julian-Wyatt/AnoDDPM), ACAT, DRAEM
-
-Thanks to the following excellent works: [DiffMIC](https://github.com/scott-yjyang/DiffMIC), DDPM, Beat-GAN, [guided-diffusion](https://github.com/openai/guided-diffusion)
+Thanks to the following excellent works: [AnoDDPM](https://github.com/Julian-Wyatt/AnoDDPM), [DiffMIC](https://github.com/scott-yjyang/DiffMIC), [guided-diffusion](https://github.com/openai/guided-diffusion).
 
