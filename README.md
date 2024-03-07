@@ -2,7 +2,7 @@
 
 ## A Quick Overview 
 
-![figure2](images/figure2_miccai_overview.pdf)
+![figure2](images/figure2_miccai_overview.jpg)
 
 ## Training & Evaluation
 
