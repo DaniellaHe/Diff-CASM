@@ -1,4 +1,4 @@
-# Diff-CASM: Vertebral Disease Classification with Context-Aware Abnormal Saliency Maps via Denoising Diffusion
+# Learning Context-Aware Abnormal Saliency Maps for Vertebral Disease Classification
 
 ## A Quick Overview 
 
