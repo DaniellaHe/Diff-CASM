@@ -52,6 +52,6 @@ python spine_trans_cls_with_FE.py ARG_NUM=3
 ```
 
 ## Acknowledgement
-
+Thanks to the following works: (AnoDDPM)[https://github.com/Julian-Wyatt/AnoDDPM], (guided-diffusion)[https://github.com/openai/guided-diffusion].
 
 
