@@ -2,7 +2,7 @@
 
 ## Overview
 
-
+![Figure 2](images/figure2.jpg)
 
 ## Environment and Data Preparation
 
