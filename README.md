@@ -9,7 +9,7 @@
 To set up the environment, use the `requirements.txt` file to prepare the Conda environment. Ensure you have all necessary dependencies installed.
 
 ```
-conda create --name diffcasm --file requirements.txt
+conda env create -f environment.yml
 conda activate diffcasm
 ```
 
